@@ -15,7 +15,7 @@
 ## APIs
 
 | API | What it can do |
-|:---:|----------------|
+|-----|----------------|
 |<a href = https://rapidapi.com/edamam/api/edamam-food-and-grocery-database>edamam</a>|Food database|
 |<a href = https://rapidapi.com/spoonacular/api/recipe-food-nutrition?>Spoonacular</a>|Recipe according to any nutirtion needs|
 ## Other API Options
