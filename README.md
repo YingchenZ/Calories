@@ -1,4 +1,4 @@
-# Calorie
+# Calorie (Android)
 
 # Team Member  (Team #25: 4PTC)
 | Name | ID | Email |
