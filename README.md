@@ -8,6 +8,9 @@
 |Hua, Xinjin|88917395|xinjinh1@uci.edu|
 |Ye, Jiawen|54035818|jiaweny7@uci.edu|
 
+## Assignment
+1. CS125Presentation.pptx
+
 ## External Libraries
 1. <a href = https://github.com/jjoe64/GraphView>GraphView</a> -> For displaying the plot of weights
 2. Okhttp -> For connecting to APIs
