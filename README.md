@@ -10,7 +10,7 @@
 
 ## Assignment
 1. CS125Presentation.pptx
-2. PresentationVideo.mp4
+2. CS125Video.mp4
 3. Calories.zip (The project contains more than 100 files, which passes the limit of Github. Please unzip and launch it in the Android Studio)
 
 ## External Libraries
