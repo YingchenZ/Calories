@@ -27,8 +27,9 @@
 1. <a href = https://www.iconfont.cn>Images source</a> that we use as buttons
 2. <a href = https://www.jb51.net/article/133617.htm>The animation of progress bar</a>
 
-## Backend
+## Backend and Data Storage
 * <a href = "https://www.bmob.cn/">Bmob</a>
+* Shared Preference
 
 ## APIs
 
