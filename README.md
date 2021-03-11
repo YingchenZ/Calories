@@ -10,7 +10,7 @@
 
 ## TODO
 
-- [ ] Presentation Slide
+- [* ] Presentation Slide
 - [ ] Source code
 - [ ] Video
 - [ ] Demo
