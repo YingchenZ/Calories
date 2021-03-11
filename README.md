@@ -10,12 +10,14 @@
 
 ## TODO
 - [x] Presentation Slide
-- [ ] Source code
+- [x] Source code
 - [x] Video
 - [ ] Demo
 
 ## Assignment
-1. CS125-Final Presentation.pptx
+* Slides: CS125-Final Presentation.pptx
+* Source CodeVersion_Mar8_10.46_Calories.zip
+
 
 
 ## External Libraries
