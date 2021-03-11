@@ -15,9 +15,9 @@
 - [ ] Demo
 
 ## Assignment
-* <pre>Slides:       CS125-Final Presentation.pptx</pre>
-* <pre>Source:       CodeVersion_Mar8_10.46_Calories.zip</pre>
-* <pre>Presentation: CS125 Presentation.mp4</pre>
+* Slides:       CS125-Final Presentation.pptx
+* Source:       CodeVersion_Mar8_10.46_Calories.zip
+* Presentation: CS125 Presentation.mp4
 
 
 
