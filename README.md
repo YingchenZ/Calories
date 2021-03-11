@@ -8,7 +8,13 @@
 |Hua, Xinjin|88917395|xinjinh1@uci.edu|
 |Ye, Jiawen|54035818|jiaweny7@uci.edu|
 
-## Assignment (Still need source codes and video)
+## TODO
+[*] Presentation Slide
+[ ] Source code
+[ ] Video
+[ ] Demo
+
+## Assignment
 1. CS125-Final Presentation.pptx
 
 
