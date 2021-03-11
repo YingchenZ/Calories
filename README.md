@@ -11,7 +11,7 @@
 ## TODO
 - [x] Presentation Slide
 - [ ] Source code
-- [ ] Video
+- [x] Video
 - [ ] Demo
 
 ## Assignment
