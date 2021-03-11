@@ -9,10 +9,10 @@
 |Ye, Jiawen|54035818|jiaweny7@uci.edu|
 
 ## TODO
-[ * ] Presentation Slide
-[  ] Source code
-[  ] Video
-[  ] Demo
+-[*] Presentation Slide
+-[ ] Source code
+-[ ] Video
+-[ ] Demo
 
 ## Assignment
 1. CS125-Final Presentation.pptx
