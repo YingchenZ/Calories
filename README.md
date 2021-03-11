@@ -9,8 +9,7 @@
 |Ye, Jiawen|54035818|jiaweny7@uci.edu|
 
 ## TODO
-
-- [* ] Presentation Slide
+- [x] Presentation Slide
 - [ ] Source code
 - [ ] Video
 - [ ] Demo
