@@ -18,6 +18,7 @@
 * Slides: CS125-Final Presentation.pptx
 * Source code: Version_Mar8_10.46_Calories.zip
 * Presentation: CS125 Presentation.mp4
+* Demo Video: CS125 Demo.mp4
 
 
 
