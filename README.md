@@ -12,7 +12,7 @@
 - [x] Presentation Slide
 - [x] Source code
 - [x] Video
-- [ ] Demo
+- [x] Demo
 
 ## Assignment
 * Slides: CS125-Final Presentation.pptx
