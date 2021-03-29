@@ -1,26 +1,10 @@
 # Calorie (Android)
 
-# Team Member  (Team #25: 4PTC)
-| Name | ID | Email |
-|------|----|-------|
-|Xiong, Jiabin|57178186|jiabinx@uci.edu|
-|Zhou, Yingchen|55879895|yingcz1@uci.edu|
-|Hua, Xinjin|88917395|xinjinh1@uci.edu|
-|Ye, Jiawen|54035818|jiaweny7@uci.edu|
-
-## TODO
-- [x] Presentation Slide
-- [x] Source code
-- [x] Video
-- [x] Demo
-
 ## Assignment
 * Slides: CS125-Final Presentation.pptx
 * Source code: Version_Mar8_10.46_Calories.zip
 * Presentation: CS125 Presentation.mp4
 * Demo Video: CS125 Demo.mp4
-
-
 
 ## External Libraries
 1. <a href = https://github.com/jjoe64/GraphView>GraphView</a> -> For displaying the plot of weights
