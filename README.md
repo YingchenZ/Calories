@@ -1,11 +1,5 @@
 # Calorie (Android)
 
-## Assignment
-* Slides: CS125-Final Presentation.pptx
-* Source code: Version_Mar8_10.46_Calories.zip
-* Presentation: CS125 Presentation.mp4
-* Demo Video: CS125 Demo.mp4
-
 ## External Libraries
 1. <a href = https://github.com/jjoe64/GraphView>GraphView</a> -> For displaying the plot of weights
 2. Okhttp -> For connecting to APIs
